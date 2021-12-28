@@ -16,5 +16,8 @@ class demo
  {
 	 ......
          s.o.p("hello world");
+	 s.o.p("hello india");
+	 s.o.p("hello good morning");
+	 s.o.p("hello good afternoon);
  }
 }
